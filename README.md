@@ -48,17 +48,8 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=feresouerfelli&show_icons=true&locale=en&theme=visual_studio" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feresouerfelli&show_icons=true&locale=en&layout=compact&theme=visual_studio" alt="Top Languages" height="150" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=feresouerfelli&theme=visual_studio" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=feresouerfelli&theme=flat" alt="GitHub Trophies" />
-  </a>
-</p>
