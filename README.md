@@ -13,10 +13,10 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/feres%20ouerfelli" target="blank">
+  <a href="https://www.linkedin.com/in/feres-ouerfelli-5bb058358/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feres ouerfelli" height="30" width="40" />
   </a>
-  <a href="https://fb.com/feres%20ouerfelli" target="blank">
+  <a href="https://www.facebook.com/feres.ouerfelli.2025?locale=fr_FR" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="feres ouerfelli" height="30" width="40" />
   </a>
 </p>
